@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="word/styles.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+</body>
+</file>
+<file original="word/document.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+<trans-unit id="NFDBB2FA9-tu2" xml:space="preserve">
+<source xml:lang="en">Text in English. <x id="1"/>Texte<x id="2"/> en rheato-romances.</source>
+<target xml:lang="zh-CN">Text in English. <x id="1"/>Texte<x id="2"/> en rheato-romances.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu3" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>The global site<x id="2"/><x id="3"/><x id="4"/>http://www.baidu.com/<x id="5"/><x id="6"/></source>
+<target xml:lang="zh-CN"><x id="1"/>The global site<x id="2"/><x id="3"/><x id="4"/>http://www.baidu.com/<x id="5"/><x id="6"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu4" xml:space="preserve">
+<source xml:lang="en">Heading 2</source>
+<target xml:lang="zh-CN">Heading 2</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu5" xml:space="preserve">
+<source xml:lang="en">Paragraph with <g id="1">bold</g>, <g id="2">ita</g><g id="3">lics</g>, <g id="4">and <g id="5">both</g></g>.</source>
+<target xml:lang="zh-CN">Paragraph with <g id="1">bold</g>, <g id="2">ita</g><g id="3">lics</g>, <g id="4">and <g id="5">both</g></g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu6" xml:space="preserve">
+<source xml:lang="en">Extended chars: ©=copyright, è=egrave, Ω=Omega.</source>
+<target xml:lang="zh-CN">Extended chars: ©=copyright, è=egrave, Ω=Omega.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu7" xml:space="preserve">
+<source xml:lang="en">Spaces: [   ]=3, [<x id="1"/>]=3tabs,<x id="2"/>Line after.</source>
+<target xml:lang="zh-CN">Spaces: [   ]=3, [<x id="1"/>]=3tabs,<x id="2"/>Line after.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu8" xml:space="preserve">
+<source xml:lang="en">Paragraph with footnote here<x id="1"/> and here<g id="2"><x id="3"/>N</g>.</source>
+<target xml:lang="zh-CN">Paragraph with footnote here<x id="1"/> and here<g id="2"><x id="3"/>N</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu9" xml:space="preserve">
+<source xml:lang="en">&lt;=lt, >=gt, "=quot, &amp;=amp, '=apos, {=opencb, }=closecb, \=bslash.</source>
+<target xml:lang="zh-CN">&lt;=lt, >=gt, "=quot, &amp;=amp, '=apos, {=opencb, }=closecb, \=bslash.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu10" xml:space="preserve">
+<source xml:lang="en">Cell r1-c1</source>
+<target xml:lang="zh-CN">Cell r1-c1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu11" xml:space="preserve">
+<source xml:lang="en">Cell r1-c2</source>
+<target xml:lang="zh-CN">Cell r1-c2</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu12" xml:space="preserve">
+<source xml:lang="en">Cell r2-c1</source>
+<target xml:lang="zh-CN">Cell r2-c1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu13" xml:space="preserve">
+<source xml:lang="en">Cell r2-c2</source>
+<target xml:lang="zh-CN">Cell r2-c2</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu14" xml:space="preserve">
+<source xml:lang="en">Table 1: Caption text</source>
+<target xml:lang="zh-CN">Table 1: Caption text</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu15" xml:space="preserve">
+<source xml:lang="en">Fields: date=<x id="1"/>, time=<x id="2"/>, pgnum=<x id="3"/>, pgcount=<x id="4"/>, subject=<x id="5"/>, title=<x id="6"/>, author=<x id="7"/>.</source>
+<target xml:lang="zh-CN">Fields: date=<x id="1"/>, time=<x id="2"/>, pgnum=<x id="3"/>, pgcount=<x id="4"/>, subject=<x id="5"/>, title=<x id="6"/>, author=<x id="7"/>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu16" xml:space="preserve">
+<source xml:lang="en">Paragraph with nbsp= , nbhyphen=<x id="1"/>, optional-hyphen=<x id="2"/>.</source>
+<target xml:lang="zh-CN">Paragraph with nbsp= , nbhyphen=<x id="1"/>, optional-hyphen=<x id="2"/>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu17" xml:space="preserve">
+<source xml:lang="en">Pargaraph with a note [<x id="1"/>].</source>
+<target xml:lang="zh-CN">Pargaraph with a note [<x id="1"/>].</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu18" xml:space="preserve">
+<source xml:lang="en">List item 1<x id="1"/></source>
+<target xml:lang="zh-CN">List item 1<x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu19" xml:space="preserve">
+<source xml:lang="en">List item 2</source>
+<target xml:lang="zh-CN">List item 2</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu20" xml:space="preserve">
+<source xml:lang="en">sub-item 1</source>
+<target xml:lang="zh-CN">sub-item 1</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu21" xml:space="preserve">
+<source xml:lang="en">sub-item 2</source>
+<target xml:lang="zh-CN">sub-item 2</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu22" xml:space="preserve">
+<source xml:lang="en">One more paragraph.</source>
+<target xml:lang="zh-CN">One more paragraph.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu23" xml:space="preserve">
+<source xml:lang="en">Pargarpah with a <x id="1"/>note on a range.</source>
+<target xml:lang="zh-CN">Pargarpah with a <x id="1"/>note on a range.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu24" xml:space="preserve">
+<source xml:lang="en">Paragraph with <x id="1"/>text of the link<x id="2"/>.</source>
+<target xml:lang="zh-CN">Paragraph with <x id="1"/>text of the link<x id="2"/>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu25" xml:space="preserve">
+<source xml:lang="en">Text with font change: <g id="1">Example</g>, <g id="2">example</g>, <g id="3">example</g>.</source>
+<target xml:lang="zh-CN">Text with font change: <g id="1">Example</g>, <g id="2">example</g>, <g id="3">example</g>.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu26" xml:space="preserve">
+<source xml:lang="en">Paragraph with an index <x id="1"/>marker.</source>
+<target xml:lang="zh-CN">Paragraph with an index <x id="1"/>marker.</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu27" xml:space="preserve">
+<source xml:lang="en">Image:</source>
+<target xml:lang="zh-CN">Image:</target>
+</trans-unit>
+<trans-unit id="NA1D636FC-sub1" xml:space="preserve">
+<source xml:lang="en">Frame1</source>
+<target xml:lang="zh-CN">Frame1</target>
+</trans-unit>
+<trans-unit id="P4D30B96F-sub1" xml:space="preserve">
+<source xml:lang="en">graphics1</source>
+<target xml:lang="zh-CN">graphics1</target>
+</trans-unit>
+<trans-unit id="P4D30B96F-sub2" xml:space="preserve">
+<source xml:lang="en">graphics1</source>
+<target xml:lang="zh-CN">graphics1</target>
+</trans-unit>
+<trans-unit id="NA1D636FC-sub2" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Illustration 1: Caption of the image</source>
+<target xml:lang="zh-CN"><x id="1"/>Illustration 1: Caption of the image</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu28" xml:space="preserve">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="zh-CN"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu29" xml:space="preserve">
+<source xml:lang="en">Paragraph with reference: [<x id="1"/>] and [<x id="2"/>], [<x id="3"/>], [<x id="4"/>], [<x id="5"/>], [<x id="6"/>], [Value of var1]</source>
+<target xml:lang="zh-CN">Paragraph with reference: [<x id="1"/>] and [<x id="2"/>], [<x id="3"/>], [<x id="4"/>], [<x id="5"/>], [<x id="6"/>], [Value of var1]</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu30" xml:space="preserve">
+<source xml:lang="en">Below is the index and the table of content:</source>
+<target xml:lang="zh-CN">Below is the index and the table of content:</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu33" xml:space="preserve">
+<source xml:lang="en"><g id="1">Xi's 'shared future' now a consensus 260128</g></source>
+<target xml:lang="zh-CN"><g id="1">Xi's 'shared future' now a consensus 260128</g></target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub1" xml:space="preserve">
+<source xml:lang="en">图片 7</source>
+<target xml:lang="zh-CN">图片 7</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub2" xml:space="preserve">
+<source xml:lang="en">图片 7</source>
+<target xml:lang="zh-CN">图片 7</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub3" xml:space="preserve">
+<source xml:lang="en">图片 6</source>
+<target xml:lang="zh-CN">图片 6</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub4" xml:space="preserve">
+<source xml:lang="en">图片 6</source>
+<target xml:lang="zh-CN">图片 6</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub5" xml:space="preserve">
+<source xml:lang="en">图片 5</source>
+<target xml:lang="zh-CN">图片 5</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub6" xml:space="preserve">
+<source xml:lang="en">图片 5</source>
+<target xml:lang="zh-CN">图片 5</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub7" xml:space="preserve">
+<source xml:lang="en">图片 4</source>
+<target xml:lang="zh-CN">图片 4</target>
+</trans-unit>
+<trans-unit id="NA1D63717-sub8" xml:space="preserve">
+<source xml:lang="en">图片 4</source>
+<target xml:lang="zh-CN">图片 4</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu34" xml:space="preserve">
+<source xml:lang="en"><g id="1">By AN BAIJIE in Beijing and CECILY LIU in Davos, Switzerland | China Daily | Updated: 2018-01-26 05:46<x id="2"/><x id="3"/><x id="4"/><x id="5"/></g></source>
+<target xml:lang="zh-CN"><g id="1">By AN BAIJIE in Beijing and CECILY LIU in Davos, Switzerland | China Daily | Updated: 2018-01-26 05:46<x id="2"/><x id="3"/><x id="4"/><x id="5"/></g></target>
+</trans-unit>
+<trans-unit id="NA1D63718-sub1" xml:space="preserve">
+<source xml:lang="en">图片 3</source>
+<target xml:lang="zh-CN">图片 3</target>
+</trans-unit>
+<trans-unit id="NA1D63718-sub2" xml:space="preserve">
+<source xml:lang="en">图片 3</source>
+<target xml:lang="zh-CN">图片 3</target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu35" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">President Xi Jinping takes the podium on the first day of the World Economic Forum in Davos, Switzerland, on Jan 17, 2017. [Photo/Xinhua]</g></source>
+<target xml:lang="zh-CN"><x id="1"/><g id="2">President Xi Jinping takes the podium on the first day of the World Economic Forum in Davos, Switzerland, on Jan 17, 2017. [Photo/Xinhua]</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu36" xml:space="preserve">
+<source xml:lang="en"><g id="1">President's idea echoed globally in face of threat of parochialism<x id="2"/>Assfjkd</g></source>
+<target xml:lang="zh-CN"><g id="1">President's idea echoed globally in face of threat of parochialism<x id="2"/>Assfjkd</g></target>
+</trans-unit>
+<trans-unit id="NFDBB2FA9-tu37" xml:space="preserve">
+<source xml:lang="en"><g id="1">ASHjj</g></source>
+<target xml:lang="zh-CN"><g id="1">ASHjj</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en">Administrator</source>
+<target xml:lang="zh-CN">Administrator</target>
+</trans-unit>
+<trans-unit id="tu2" xml:space="preserve">
+<source xml:lang="en">Comments</source>
+<target xml:lang="zh-CN">Comments</target>
+</trans-unit>
+<trans-unit id="tu3" xml:space="preserve">
+<source xml:lang="en">Keyword text</source>
+<target xml:lang="zh-CN">Keyword text</target>
+</trans-unit>
+<trans-unit id="tu4" xml:space="preserve">
+<source xml:lang="en">Subject text</source>
+<target xml:lang="zh-CN">Subject text</target>
+</trans-unit>
+<trans-unit id="tu5" xml:space="preserve">
+<source xml:lang="en">Title of the Document</source>
+<target xml:lang="zh-CN">Title of the Document</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/comments.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+<trans-unit id="N86022802-tu1" xml:space="preserve">
+<source xml:lang="en">Text of the note</source>
+<target xml:lang="zh-CN">Text of the note</target>
+</trans-unit>
+<trans-unit id="N86022802-tu2" xml:space="preserve">
+<source xml:lang="en"><g id="1">And here goes a second note. A long comment with formatting like <g id="2">bold</g>, and <g id="3">more</g>.</g></source>
+<target xml:lang="zh-CN"><g id="1">And here goes a second note. A long comment with formatting like <g id="2">bold</g>, and <g id="3">more</g>.</g></target>
+</trans-unit>
+<trans-unit id="N86022802-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">Like several paragraphs.</g></source>
+<target xml:lang="zh-CN"><g id="1">Like several paragraphs.</g></target>
+</trans-unit>
+<trans-unit id="N86022802-tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">Text of the note on the range.</g></source>
+<target xml:lang="zh-CN"><g id="1">Text of the note on the range.</g></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footer1.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+<trans-unit id="P3953B09A-tu1" xml:space="preserve">
+<source xml:lang="en">Text of the footer</source>
+<target xml:lang="zh-CN">Text of the footer</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/footnotes.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+<trans-unit id="P67A78077-tu1" xml:space="preserve">
+<source xml:lang="en"><x id="1"/>Text of the <g id="2">automatic</g> footnote.</source>
+<target xml:lang="zh-CN"><x id="1"/>Text of the <g id="2">automatic</g> footnote.</target>
+</trans-unit>
+<trans-unit id="P67A78077-tu2" xml:space="preserve">
+<source xml:lang="en">Second paragraph of the footnote.</source>
+<target xml:lang="zh-CN">Second paragraph of the footnote.</target>
+</trans-unit>
+<trans-unit id="P67A78077-tu3" xml:space="preserve">
+<source xml:lang="en"><g id="1">N</g>Text of the footnote <g id="2">N</g>.</source>
+<target xml:lang="zh-CN"><g id="1">N</g>Text of the footnote <g id="2">N</g>.</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/header1.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+<trans-unit id="P3E6DCAE8-tu1" xml:space="preserve">
+<source xml:lang="en">Text of the header</source>
+<target xml:lang="zh-CN">Text of the header</target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="en" target-language="zh-CN" datatype="x-undefined" okp:inputEncoding="GBK">
+<body>
+</body>
+</file>
+</xliff>
